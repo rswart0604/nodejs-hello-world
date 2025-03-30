@@ -4,7 +4,7 @@
   "description": "Node.js Hello World for OpenShift 3",
   "main": "helloworld.js",
   "dependencies": {
-    "ejs": "^2.4.1",
+    "ejs": ">=3.1.10",
     "express": "^4.13.4"
   },
   "scripts": {
